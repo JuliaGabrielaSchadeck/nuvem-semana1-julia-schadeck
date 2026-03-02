@@ -51,3 +51,13 @@ Atividade feita em sala de aula no dia 23/02/2026, no período da manhã.
     }
   }
 }
+- Já quando cliquei no POST, apareceu
+{
+  "fonte": "jsonplaceholder.typicode.com",
+  "resposta": {
+    "turma": "Serviços em Nuvem",
+    "atividade": "Semana 2",
+    "timestamp": "2026-03-02T11:24:32.309Z",
+    "id": 101
+  }
+}
