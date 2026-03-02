@@ -22,6 +22,7 @@ Atividade feita em sala de aula no dia 23/02/2026, no período da manhã.
 ## Dificuldades
 - Entender o erro e localiza-lo.
 ## Resultados
+- O erro, antes de arrumar, era de token invalido
 - Quando cliquei no GET, o seguinte texto apareceu
   {
   "fonte": "open-meteo.com",
